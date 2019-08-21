@@ -1,2 +1,2 @@
 # Coursera-Robotics-Assignment
-This is part of robotics course assignment on Courera
+This is part of coursera's assignment for Robotics.
